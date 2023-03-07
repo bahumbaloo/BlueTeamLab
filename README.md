@@ -1,4 +1,4 @@
-# Infrastructure as Code in practice: Building a Blue Team lab with Bicep
+# Build lab with biceps
 This template will deploy:
 - Virtual network, consisting of a default subnet and a network security group to restrict inbound RDP traffic to our local machine
 - Windows Server 2019 virtual machine, configured as a domain controller
